@@ -18,13 +18,14 @@ In this repository, you will find a variety of data structure programs that cove
 
 To use the programs in this repository, follow these steps:
 
-1. Clone the repository to your local machine using the following command: git clone https://github.com/Chetan-Raut/Data-Structures-4-BSc.git
+1. Clone the repository to your local machine using command:
+   ```git clone https://github.com/Chetan-Raut/Data-Structures-4-BSc.git```
  
-2. Navigate to the appropriate program directory using a terminal or code editor.
+3. Navigate to the appropriate program directory using a terminal or code editor.
 
-3. Compile and run the program using a suitable compiler or integrated development environment (IDE).
+4. Compile and run the program using a suitable compiler or integrated development environment (IDE).
 
-4. Study the code and experiment with different inputs to gain a better understanding of the data structure and algorithm being demonstrated.
+5. Study the code and experiment with different inputs to gain a better understanding of the data structure and algorithm being demonstrated.
 
 ## Program List
 
@@ -39,7 +40,7 @@ Feel free to explore each program and its accompanying documentation.
 
 Here are some recommended resources for further learning about data structures and algorithms:
 
-- [List of recommended books, websites, and tutorials]
+- [```List of recommended books, websites, and tutorials```] 
 
 ## Contact
 
