@@ -1,4 +1,4 @@
-# Data Structures for BSc Sem III Computer Science-RTMNU
+# DSA for BSc Sem III CS-RTMNU
 
 Welcome to the "Data-Structures-4-BSc" repository! This repository contains a collection of data structure programs designed specifically for BSc Semester III Computer Science students at RTM Nagpur University. These programs are aimed at helping you understand and practice various data structures concepts.
 
