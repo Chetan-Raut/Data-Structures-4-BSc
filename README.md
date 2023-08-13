@@ -31,9 +31,9 @@ To use the programs in this repository, follow these steps:
 
 Here's a list of the data structure programs available in this repository:
 
-1. Program 1: [Program to insert a node at the beginning, at the end and in the middle of the given 
+Program 1: [Program to insert a node at the beginning, at the end and in the middle of the given 
 linked list.](link_to_program_1)
-2. Program 2: [Program to delete a node at the beginning, at the end and in the middle of the given 
+Program 2: [Program to delete a node at the beginning, at the end and in the middle of the given 
 linked list.](link_to_program_2)
 3. Program 3: [Program to create a linked list of customer names and their telephone numbers. (Using
 Menu Driven and include features of adding a new Customer and deleting an existing 
