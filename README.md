@@ -40,24 +40,43 @@ linked list.](link_to_program_2)
 Program 3: [Program to create a linked list of customer names and their telephone numbers. (Using
 Menu Driven and include features of adding a new Customer and deleting an existing 
 Customer.)](link_to_program_2) 
+
 Program 4: [Program to reverse a linked list.](link_to_program_2) 
+
 Program 5: [Program to search a value in the given linked list.](link_to_program_2) 
+
 Program 6: [Program to insert a node at the beginning, at the end or in the middle of a given doubly 
 linked list.](link_to_program_2) 
+
 Program 7: [Program to create, insert and delete a node in Circular linked list.](link_to_program_2)
+
 Program 8: [Program to push and pop an element into / from a stack implemented using linked list.](link_to_program_2) 
+
 Program 9: [Program to push and pop an element into / from a stack implemented using linked list.](link_to_program_2)
+
 Program 10: [Program to push and pop an element into / from a stack implemented using Array.](link_to_program_2) 
+
 Program 11: [Program to evaluate postfix expression.](link_to_program_2) 
+
 Program 12: [Program to sort an array using quick sort.](link_to_program_2)
-Program 13: [Program to solve Towers of Hanoi problems using recursion.](link_to_program_2) 
-Program 14: [Program to perform insertion and deletion operation in linear queues.](link_to_program_2) 
+
+Program 13: [Program to solve Towers of problems using recursion.](link_to_program_2)
+ 
+Program 14: [Program to and deletion operation in linear queues.](link_to_program_2) 
+
 Program 15: [Program to perform insertion and deletion operation on circular queues.](link_to_program_2)
+
 Program 16: [Program to sort an array using Insertion sort.](link_to_program_2)
+
 Program 17: [Program to sort an array using Selection sort.](link_to_program_2) 
-Program 18: [Program to insert an element in a binary search tree.](link_to_program_2) 
+
+Program 18: [Program to insert an 
+ in a binary search tree.](link_to_program_2)
+ 
 Program 19: [Program to traverse inorder of a binary tree.](link_to_program_2) 
+
 Program 20: [Program to traverse preorder of a binary tree.](link_to_program_2) 
+
 Program 21: [Program to traverse postorder of a binary tree.](link_to_program_2)  
 
 Feel free to explore each program and its accompanying documentation.
