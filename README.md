@@ -60,7 +60,7 @@ Program 11: [Program to evaluate postfix expression.](link_to_program_2)
 
 Program 12: [Program to sort an array using quick sort.](link_to_program_2)
 
-Program 13: [Program to solve Towers of problems using recursion.](link_to_program_2)
+Program 13: [Program to solve Towers of Hanoi problems using recursion.](link_to_program_2)
  
 Program 14: [Program to and deletion operation in linear queues.](link_to_program_2) 
 
