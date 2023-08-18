@@ -48,9 +48,10 @@ Program 5: [Program to search a value in the given linked list.](link_to_program
 Program 6: [Program to insert a node at the beginning, at the end or in the middle of a given doubly 
 linked list.](link_to_program_2) 
 
-Program 7: [Program to create, insert and delete a node in Circular linked list.](link_to_program_2)
+Program 7: [Program to delete a node from the beginning, at the end or in the middle of a given 
+doubly linked list.](link_to_program_2)
 
-Program 8: [Program to push and pop an element into / from a stack implemented using linked list.](link_to_program_2) 
+Program 8: [Program to create, insert and delete a node in Circular linked list.](link_to_program_2) 
 
 Program 9: [Program to push and pop an element into / from a stack implemented using linked list.](link_to_program_2)
 
