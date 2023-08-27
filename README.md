@@ -71,8 +71,7 @@ Program 16: [Program to sort an array using Insertion sort.](Program%2016)
 
 Program 17: [Program to sort an array using Selection sort.](Program%2017) 
 
-Program 18: [Program to insert an 
- in a binary search tree.](Program%2018)
+Program 18: [Program to insert an element in a binary search tree.](Program%2018)
  
 Program 19: [Program to traverse inorder of a binary tree.](Program%2019) 
 
