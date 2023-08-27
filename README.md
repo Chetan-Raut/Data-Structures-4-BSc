@@ -41,7 +41,7 @@ Program 3: [Program to create a linked list of customer names and their telephon
 Menu Driven and include features of adding a new Customer and deleting an existing 
 Customer.)](link_to_program_2) 
 
-Program 4: [Program to reverse a linked list.](link_to_program_2) 
+Program 4: [Program to reverse a linked list.](Program 4/) 
 
 Program 5: [Program to search a value in the given linked list.](link_to_program_2) 
 
