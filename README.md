@@ -32,53 +32,53 @@ To use the programs in this repository, follow these steps:
 Here's a list of the data structure programs available in this repository:
 
 Program 1: [Program to insert a node at the beginning, at the end and in the middle of the given 
-linked list.](link_to_program_1)
+linked list.](Program%201)
 
 Program 2: [Program to delete a node at the beginning, at the end and in the middle of the given 
-linked list.](link_to_program_2)
+linked list.](Program%202)
 
 Program 3: [Program to create a linked list of customer names and their telephone numbers. (Using
 Menu Driven and include features of adding a new Customer and deleting an existing 
-Customer.)](link_to_program_2) 
+Customer.)](Program%203) 
 
 Program 4: [Program to reverse a linked list.](Program%204) 
 
-Program 5: [Program to search a value in the given linked list.](link_to_program_2) 
+Program 5: [Program to search a value in the given linked list.](Program%205) 
 
 Program 6: [Program to insert a node at the beginning, at the end or in the middle of a given doubly 
-linked list.](link_to_program_2) 
+linked list.](Program%206) 
 
 Program 7: [Program to delete a node from the beginning, at the end or in the middle of a given 
-doubly linked list.](link_to_program_2)
+doubly linked list.](Program%207)
 
-Program 8: [Program to create, insert and delete a node in Circular linked list.](link_to_program_2) 
+Program 8: [Program to create, insert and delete a node in Circular linked list.](Program%208) 
 
-Program 9: [Program to push and pop an element into / from a stack implemented using linked list.](link_to_program_2)
+Program 9: [Program to push and pop an element into / from a stack implemented using linked list.](Program%209)
 
-Program 10: [Program to push and pop an element into / from a stack implemented using Array.](link_to_program_2) 
+Program 10: [Program to push and pop an element into / from a stack implemented using Array.](Program%2010) 
 
-Program 11: [Program to evaluate postfix expression.](link_to_program_2) 
+Program 11: [Program to evaluate postfix expression.](Program%2011) 
 
-Program 12: [Program to sort an array using quick sort.](link_to_program_2)
+Program 12: [Program to sort an array using quick sort.](Program%2012)
 
-Program 13: [Program to solve Towers of Hanoi problems using recursion.](link_to_program_2)
+Program 13: [Program to solve Towers of Hanoi problems using recursion.](Program%2013)
  
-Program 14: [Program to perform insertion and deletion operation in linear queues.](link_to_program_2) 
+Program 14: [Program to perform insertion and deletion operation in linear queues.](Program%2014) 
 
-Program 15: [Program to perform insertion and deletion operation on circular queues.](link_to_program_2)
+Program 15: [Program to perform insertion and deletion operation on circular queues.](Program%2015)
 
-Program 16: [Program to sort an array using Insertion sort.](link_to_program_2)
+Program 16: [Program to sort an array using Insertion sort.](Program%2016)
 
-Program 17: [Program to sort an array using Selection sort.](link_to_program_2) 
+Program 17: [Program to sort an array using Selection sort.](Program%2017) 
 
 Program 18: [Program to insert an 
- in a binary search tree.](link_to_program_2)
+ in a binary search tree.](Program%2018)
  
-Program 19: [Program to traverse inorder of a binary tree.](link_to_program_2) 
+Program 19: [Program to traverse inorder of a binary tree.](Program%2019) 
 
-Program 20: [Program to traverse preorder of a binary tree.](link_to_program_2) 
+Program 20: [Program to traverse preorder of a binary tree.](Program%2020) 
 
-Program 21: [Program to traverse postorder of a binary tree.](link_to_program_2)  
+Program 21: [Program to traverse postorder of a binary tree.](Program%2021)  
 
 Feel free to explore each program and its accompanying documentation.
 
