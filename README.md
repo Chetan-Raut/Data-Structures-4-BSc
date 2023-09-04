@@ -85,7 +85,9 @@ Feel free to explore each program and its accompanying documentation.
 
 Here are some recommended resources for further learning about data structures and algorithms:
 
-- [```List of recommended books, websites, and tutorials```] 
+- Classical Data Structures : D. Samanta. PHI, New Delhi
+- DATA STRUCTURE : LIPSCTUZ SCHUM OUTLINE SERIES
+- Data structure Using C++ : Y. Kanetkar
 
 ## Contact
 
