@@ -16,7 +16,7 @@ hanoi(n-1,‘a’,’b’,’c’);
 cout<<”\n move disk”<<n<<”from peg”<<”\ta”<<”to peg”<<”\tc”;
 hanoi(n-1,’c’,’b’,’a’);
 }
-Void main()
+void main()
 {
 int n;
 clrscr();
