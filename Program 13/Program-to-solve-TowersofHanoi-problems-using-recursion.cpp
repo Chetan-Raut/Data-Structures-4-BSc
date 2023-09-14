@@ -1,3 +1,33 @@
+#include<iostream.h>
+#include<conio.h>
+class tower
+{
+public:
+void Hanoi(int n,char,char,char);
+};
+void tower::Hanoi(int n,chara,charb,char c)
+{
+if(n==1)
+{
+cout<<”\n move disk 1 from peg”<<”\ta”<<”\tto peg”<<”\tc”;
+return;
+}
+hanoi(n-1,‘a’,’b’,’c’);
+cout<<”\n move disk”<<n<<”from peg”<<”\ta”<<”to peg”<<”\tc”;
+hanoi(n-1,’c’,’b’,’a’);
+}
+Void main()
+{
+int n;
+clrscr();
+
+tower t;
+cout<<”enter no of disk=”;
+cin>>n;
+t.hanoi(n,’a’,’c’,’b’);
+getch();
+}
+
 /*
 #include <conio.h>
 
