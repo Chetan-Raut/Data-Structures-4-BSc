@@ -1,4 +1,4 @@
-#include <iostream.h>
+/*#include <iostream.h>
 #include <conio.h>
 
 void towers(int n, char frompeg, char topeg, char auxpeg) {
@@ -22,4 +22,4 @@ int main() {
 
     getch(); // Wait for a key press before exiting
     return 0;
-}
+}*/
