@@ -28,7 +28,7 @@ t.hanoi(n,’a’,’c’,’b’);
 getch();
 }
 
-/*
+/* #iostream header file 
 #include <conio.h>
 
 void towers(int n, char frompeg, char topeg, char auxpeg) {
