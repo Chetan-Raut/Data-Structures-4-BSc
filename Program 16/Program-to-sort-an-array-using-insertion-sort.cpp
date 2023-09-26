@@ -106,3 +106,54 @@ void main()
 
     getch();
 }
+
+//3rd way
+
+#include<iostream.h>
+#include<conio.h>
+class insertion
+{
+ private: int i, k ;
+ public: void insertion_sort(int *,int) ;
+ void display(int *,int) ;
+} ;
+void insertion:: insertion_sort(int l[], int n)
+{
+ l[0]= -0 ;
+ for( int i=1 ; i<=n;i++)
+ {
+  int pointer=i-1 ;
+  int temp=l[i] ;
+  while(temp<l[pointer])
+  {
+   l[pointer+1]=l[pointer] ;
+   pointer--  ;
+  }
+   l[pointer+1]=temp ;
+   cout<<"step="<<i ;
+   for(k=1;k<=n;k++)
+   cout<<" "<<l[k] ;
+   cout<<"\n";
+   }
+  }
+  void insertion::display(int l[], int n)
+ {
+  cout<<"\n Sorted list is as follows \n" ;
+  for(i=1;i<=n;i++)
+  cout<<" "<<l[i] ;
+ }
+ void main()
+ {
+  clrscr() ;
+  insertion ins_sort ;
+  int number ;
+  int list[100] ;
+  cout<<"\n Input the number of elements in the list:" ;
+  cin>>number ;
+  for(int i=1;i<=number;i++)
+  cin>>list[i] ;
+  ins_sort.insertion_sort(list,number) ;
+  ins_sort.display(list,number) ;
+  getch() ;
+ }
+
